@@ -23,7 +23,7 @@ body {
  }
 /* Header */
 header {
-  background-color: #fff;
+  background-color: #3587ea;
   border-bottom: 1px solid #ddd;
 }
 header .container {
@@ -32,6 +32,7 @@ header .container {
   justify-content: space-between;
   padding: 1rem 0;
 }
+
 header h1 {
   font-size: 1.8rem;
 }
